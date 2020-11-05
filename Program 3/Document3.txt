@@ -1,0 +1,6 @@
+Binary Tree Balancing
+!!!AVL Tree Animation!!!
+
+Also known as AVL trees
+
+Balance factor = height of left subtree - height of right subtree

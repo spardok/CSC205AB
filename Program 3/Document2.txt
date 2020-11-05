@@ -1,0 +1,11 @@
+Hashing
+
+!!! CHECK CELLPHONE !!!
+Turning a primary key into an index, into a data structure.
+
+Everyone must have a primary key, which must be unique.
+Hashcode is derived from the primary key divided by the hascode(array size), the hashcode is not unique.
+
+When using strings
+you can call "michael".hashcode() to get the hashcode.
+
