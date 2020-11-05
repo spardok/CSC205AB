@@ -1,0 +1,21 @@
+Binary Search Tree
+{
+	Nodes on the left hand side have to be smaller than the one on the right. And smaller than the one at the top
+}
+inOrder traversal
+{
+	Every subtree is traversed in this order 
+	{
+		inOrder
+		{
+			L N R
+		}
+		preOrder
+		{
+			N L R
+		}
+		postOrder
+		{
+			L R N
+		}
+	}
